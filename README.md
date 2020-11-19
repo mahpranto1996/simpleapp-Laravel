@@ -1,7 +1,9 @@
 ##Installation
 
 This App build with Laravel framework which version is 7.
+
 Steps you should follow the installation process of this app:
+
 	1)First you need to install php version 7.4 or above.
 	3)You should install Apache
 	2)You should install mysql and php myadmin.
